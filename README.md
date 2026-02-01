@@ -8,9 +8,7 @@ As per the task requirements, follow these steps to set up the environment:
 
 1. **Clone the Osdag Repository:**
    ```bash
-   git clone [https://github.com/osdag/Osdag.git](https://github.com/osdag/Osdag.git)
-
-   git clone []
+   git clone [https://github.com/harshpratap0106/FOSSEE_Osdag_Task/tree/main]
 cd [FOSSEE_Osdag_Task]
 
 Install Dependencies: Ensure you have Python 3.x installed, then run:
